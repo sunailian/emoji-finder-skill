@@ -9,13 +9,13 @@
 ### 通过 Hermes Skills Hub
 
 ```bash
-hermes skills install sunailian/hermes-emoji-finder
+hermes skills install sunailian/emoji-finder-skill
 ```
 
 ### 手动安装
 
 ```bash
-git clone https://github.com/sunailian/hermes-emoji-finder.git ~/.hermes/skills/emoji-finder
+git clone https://github.com/sunailian/emoji-finder-skill.git ~/.hermes/skills/emoji-finder
 ```
 
 ## 使用

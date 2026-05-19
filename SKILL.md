@@ -7,7 +7,7 @@ license: MIT
 metadata:
   hermes:
     tags: [emoji, productivity, utility, chinese]
-    homepage: https://github.com/sunailian/hermes-emoji-finder
+    homepage: https://github.com/sunailian/emoji-finder-skill
 ---
 
 # Emoji Finder — 文字描述 → Emoji
